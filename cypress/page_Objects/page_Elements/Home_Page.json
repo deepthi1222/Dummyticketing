@@ -1,0 +1,15 @@
+{
+
+"USContactNumber":"//a[@href='tel:+13088886496']",
+"UKContactNumber":"//a[@href='tel:+447445381114']",
+"IndiaContactNumber":"//a[@href='tel:+918884777300']",
+"UAEContactNumber":"//a[@href='tel:+971547761925']",
+"DummyTicketBookinglogo":"//a[@class='navbar-logo-wrap']",
+"HomeLink":"//li[@id='menu-item-13']//a[text()='Home']",
+"BuyTicketlink":"//li[@id='menu-item-574']//a[text()='Buy Ticket']",
+"Contactlink":"//li[@id='menu-item-1556']//a[text()='Contact']",
+"Followusfacebooklink":"//a[@href='https://www.facebook.com/dummyticket']",
+"Followusyoutubelink":"//li[@class='theme-icons-wrap fg-text-dark ffb-icon1-3']",
+"FollowusInstagramlink":"//li[@class='theme-icons-wrap fg-text-dark ffb-icon1-4']"
+
+}

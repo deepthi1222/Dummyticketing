@@ -1,0 +1,10 @@
+{
+   "Billing_Name":"//input[@id='billname']",
+   "Billing_PhoneNumber":"//input[@id='billing_phone']",
+   "Billing_Email":"//input[@id='billing_email']",
+   "Billing_Country":"//span[@id='select2-billing_country-container']"
+
+
+
+
+}

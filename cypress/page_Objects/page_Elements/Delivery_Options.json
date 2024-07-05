@@ -1,0 +1,9 @@
+{
+  
+    "purposeofdummyticket":"//span[@title='Visa application']",
+    "AppointmentSubmissionDate":"//input[@id='appoinmentdate']",
+    "DummyTicketDeliveryMethod1":"//input[@id='deliverymethod_1']",
+    "DummyTicketDeliveryMethod2":"//input[@id='deliverymethod_2']",
+    "DummyTicketDeliveryMethod3":"//input[@id='deliverymethod_3']"
+
+}

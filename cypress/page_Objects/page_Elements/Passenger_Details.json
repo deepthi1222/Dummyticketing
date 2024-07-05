@@ -1,0 +1,13 @@
+{
+
+"FirstorGivenName":"//input[@id='travname']",
+"lastorsurName":"//input[@id='travlastname']",
+"DateofBirth":"//input[@id='dob']",
+"PickingMonth":"//select[@class='ui-datepicker-month']",
+"PickingYear":"//select[@class='ui-datepicker-year']",
+"PickingDate":"//a[@class='ui-state-default' and text()='12']",
+"AdditionalOnfo":"//textarea[@id='order_comments']",
+"MaleradioBox":"//input[@id='sex_1']",
+"FemaleradioBox":"//input[@id='sex_2']"
+
+}

@@ -1,0 +1,11 @@
+{
+
+"DummyticketforVisaApplicationradioButton":"//input[@id='product_549']",
+"DummyreturnticketradioButton":"//input[@id='product_550']",
+"DummyhotelBookingradioButton":"//input[@id='product_551']",
+"DummyticketandhotelradioButton":"//input[@id='product_3186']",
+"pastdatedticketradioButton":"//input[@id='product_7441']",
+"RadioButtonSuccessfullMessage":"//div[@class='woocommerce-message']"
+
+
+}

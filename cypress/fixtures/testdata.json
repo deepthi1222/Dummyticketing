@@ -1,0 +1,52 @@
+
+    [
+
+
+        {
+
+            "testname":"verifycontactNumbers",
+               "data":{
+                "US":"US: +1 308-888-6496",
+                "UK":"UK :+44 744 538 1114",
+                "India":"India : +91 888-4-777-300",
+                "UAE":"U.A.E :+971 54-776-1925"
+               
+                
+               }
+       
+       
+       
+           },
+
+           {
+
+            "testname":"EnterCouponCode",
+               "data":{
+               "couponCode":"abcd"
+               
+                
+               }
+       
+              
+           },
+
+           {
+
+            "testname":"PassengerDetails",
+               "data":{
+               "FirstorGivenName":"Mac",
+               "lastorsurName":"Book"
+
+                
+               }
+       
+              
+           }
+
+
+    ]    
+    
+
+    
+
+

@@ -1,0 +1,11 @@
+{
+
+"DummyTickettText":"//h2[@class='fg-text-dark ffb-h2-1']//p[text()='Dummy ticket booking']",
+"ChoosetheCorrectOption":"//h4[text()='Choose the correct option:']",  
+"CouponCodeLink":"//a[@class='showcoupon']",
+"CouponCodetxtbox":"//input[@id='coupon_code']",
+"ApplyCouponButton":"//button[@class='button']",
+"CouponErrorMessage":"//ul[@class='woocommerce-error']//li"
+
+
+}

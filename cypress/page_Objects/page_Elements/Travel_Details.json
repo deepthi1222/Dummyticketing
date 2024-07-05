@@ -1,0 +1,12 @@
+{
+
+    "TripTypeOneWay":"//input[@id='traveltype_1']",
+    "TripTypeRoundtrip":"//input[@id='traveltype_2']",
+    "Fromcityororigin":"//input[@id='fromcity']",
+    "TocityorDest":"//input[@id='tocity']",
+    "DepatureDate":"//input[@id='departon']",
+    "ReturnDate":"//input[@id='returndate']",
+    "Additional_information":"//textarea[@id='notes']"
+
+
+}
